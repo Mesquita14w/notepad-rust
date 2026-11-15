@@ -1,0 +1,3 @@
+## Notepad in Rust
+
+- Two friends learning Rust to escape boring...
